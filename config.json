@@ -1,0 +1,10 @@
+{
+  "vmix": {
+    "port": 54503,
+    "hostname": "localhost",
+    "password": "testPASSWORD"
+  },
+  "main":{
+    "server_port": 5000
+  }
+}
